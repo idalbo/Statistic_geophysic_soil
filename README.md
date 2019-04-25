@@ -1,5 +1,6 @@
 # Statistic_geophysic_soil
 Statistical algorithms applied to geophysical and soil data
+
 Original data cannot be pubblished here because protected by copyrights.
 
 The main goal of this study was understanding if any of the lab obtained ground truth data (texture, soil water content, carbon content, and sample depth) were for a certain amount connected to measured geophysical data (EMI and GPR) at specific point locations.
