@@ -1,4 +1,4 @@
-# Statistic_geophysic_soil
+# Statistic_geophysics_soil
 Statistical algorithms applied to geophysical and soil data
 
 Original data cannot be pubblished here because protected by copyrights.
